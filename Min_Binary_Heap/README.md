@@ -1,7 +1,7 @@
 
 Binary Heap implementation in java
 
-COMP 410 assignment2
+COMP 410 assignment3
 
 Data: 10-4-2016
 
